@@ -15,7 +15,7 @@ import { HttpClientModule } from '@angular/common/http';
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-    AngularMaterialModule, // Ensure this is here
+    AngularMaterialModule,
     ReactiveFormsModule,
     FormsModule,
     HttpClientModule
